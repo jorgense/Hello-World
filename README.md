@@ -5,5 +5,5 @@ Hello!
 
 My name is Tyler Jorgensen. I am a mathematics major at the University of Oregon. Here is a lovely picture of the planet earth to expand your world view: 
 
-![Earth](Hello-World/images/Planet-Earth-picture.jpg)
+![Earth](images/Planet-Earth-picture.jpg)
 
